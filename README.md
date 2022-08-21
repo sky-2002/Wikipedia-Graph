@@ -1,5 +1,6 @@
 # Wikipedia-Graph analysis
 ##### The analysis done previously can be found in the "Naive" directory. The name only suggests that the coming approaches will be more sophisticated.<br>
+##### Dataset that can be used : [Wikispeedia navigation paths](https://snap.stanford.edu/data/wikispeedia.html)
 #### Below is a tentative plan to do this analysis in a systematic manner:
 ```mermaid
 graph TD;
